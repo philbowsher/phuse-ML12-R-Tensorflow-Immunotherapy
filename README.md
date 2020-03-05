@@ -1,4 +1,10 @@
-# BioIT2019-R-Tensorflow-Talk by Phil Bowsher on TUESDAY, APRIL 16TH
+# Phuse ML12 R for Deep Learning with Tensorflow with Applications in Cancer Immunotherapy 
+
+Paper Number: ML12
+
+Section: PHUSE US Connect 2020 – Orlando, FL - Machine Learning & Artificial Intelligence
+
+March 8th-11th
 
 Live Presentation is here:
 
