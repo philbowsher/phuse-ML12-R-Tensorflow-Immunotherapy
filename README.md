@@ -1,6 +1,10 @@
 # Phuse ML12 R for Deep Learning with Tensorflow with Applications in Cancer Immunotherapy 
 
-Paper Number: ML12
+Paper Number ML12:
+https://www.phusewiki.org/docs/2020%20US%20Connect%20Florida/Presentations/ML/Final%20Papers/ML12%20pdf.pdf
+
+Live environment with examples:
+https://rstudio.cloud/project/1011147
 
 Section: PHUSE US Connect 2020 – Orlando, FL - Machine Learning & Artificial Intelligence
 
